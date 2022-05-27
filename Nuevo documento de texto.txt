@@ -1,4 +1,2 @@
 master
-proyecto
-proyecto2
 proyecto2
